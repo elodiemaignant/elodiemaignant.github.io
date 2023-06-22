@@ -57,7 +57,7 @@ curvature spaces.
   Epione PhD Seminar.
   Inria, France
 
-* Janvier 2022 -- **Introducing a generalisation of Locally Linear Embedding to manifold-valued data.**
+* January 2022 -- **Introducing a generalisation of Locally Linear Embedding to manifold-valued data.**
   [Groupement de Travail en Traitement d'Images](https://centreborelli.ens-paris-saclay.fr/fr/GTTI).
   ENS Paris-Saclay, France.
 
