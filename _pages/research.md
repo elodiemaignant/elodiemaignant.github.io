@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+.
+
 ## PhD Thesis
 
 Elodie Maignant, under the supervision of Xavier Pennec and Alain Trouvé.
