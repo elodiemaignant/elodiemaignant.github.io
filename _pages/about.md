@@ -20,9 +20,5 @@ Please feel free to contact me by email at maignant[at]zib.de
 
 News
 ======
-* **April 2023** -- My submission to [GSI'23](https://conference-gsi.org/), entitled "Riemannian Locally Linear Embedding with Applications to 
-Kendall Shape Spaces" has been accepted with oral presentation!
-
-* **April 2023** -- Our submission to [GSI'23](https://conference-gsi.org/) with Anna Calissano and Xavier Pennec, entitled "Towards Quotient Barycentric Subspaces" has been accepted with oral presentation!
-
+* **January 2024** -- I started a Postdoc at Zuse Institute Berlin in the group of Christoph von Tycowicz!
 
