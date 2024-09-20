@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## PhD Thesis
+
 Elodie Maignant, under the supervision of Xavier Pennec and Alain Trouvé.
 **Barycentric embeddings for geometric manifold learning: with application to shapes and graphs**
 Defended on December 6, 2023 in front of Stephan Huckemann, Ian Dryden, Aasa Feragen, Jean Gallier and Alice Barbara Tumpach.
@@ -16,7 +17,7 @@ Defended on December 6, 2023 in front of Stephan Huckemann, Ian Dryden, Aasa Fer
 * Elodie Maignant, Alain Trouvé, Xavier Pennec.
   **Riemannian locally linear embedding with application to Kendall shape spaces**
   Geometric Science of Information: 6th International Conference, GSI'23. Springer International Publishing (2023)
-  [/hal-04122754](https://inria.hal.science/hal-04122754)
+  [hal-04122754](https://inria.hal.science/hal-04122754)
 
 * Anna Calissano, Elodie Maignant, Xavier Pennec
   **Towards quotient barycentric subspaces**
