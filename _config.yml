@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Elodie Maignant"
 title_separator          : "-"
 name                     : &name "Elodie Maignant"
-description              : &description "PhD Student at Inria and ENS Paris-Saclay"
+description              : &description "Postdoctoral researcher at Zuse Institute Berlin"
 url                      : https://elodiemaignant.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "elodiemaignant/elodiemaignant.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Elodie Maignant"
   avatar           : "elodiemaignant.png"
-  bio              : "PhD Student in Applied Mathematics"
-  location         : "Sophia Antipolis, France"
+  bio              : "Postdoctoral Researcher in Applied Mathematics"
+  location         : "Berlin, Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "elodie.maignant@inria.fr"
+  email            : "maignant@zib.de"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
