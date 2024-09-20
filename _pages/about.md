@@ -9,16 +9,13 @@ redirect_from:
 ---
 
 
-I am a PhD student in applied mathematics in the [G-Statistics Group](https://gstats.inria.fr/) at Inria. I started my PhD in October 2020 under the 
+I am a postdoctoral researcher at Zuse Institute Berlin in the group of [Christoph von Tycowicz](https://tycowicz.de/) where I investigate geometric approaches for the [analysis of RNA velocities](https://mathplus.de/research-2/application-areas/aa1-mechanisms-of-life/aa1-20/). Prior to that, I was a PhD student in the [G-Statistics Group](https://gstats.inria.fr/) at Inria, under the 
 supervision of [Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/) (Inria) and 
-[Alain Trouvé](https://centreborelli.ens-paris-saclay.fr/fr/annuaire-des-personnes/alain-trouve) (ENS Paris-Saclay) on geometric manifold learning.
+[Alain Trouvé](https://centreborelli.ens-paris-saclay.fr/fr/annuaire-des-personnes/alain-trouve) (ENS Paris-Saclay). I defended my thesis on [Barycentric embeddings for geometric manifold learning with application to shapes and graphs](https://theses.hal.science/tel-04452790v2) in December 2023.
 
-My research interests lie at the intersection of differential geometry, manifold learning and shape analysis. I am a strong believer in data-driven 
-mathematics with a focus on applications in biology.
+More generally, my research interests lie at the interaction between geometry and learning. I am a strong believer in data-driven mathematics with a focus on applications in biology and medicine. I am also motivated by teaching and I am involved in several projects aimed at popularising mathematics.
 
-I am also motivated by teaching and I am involved in several projects aimed at popularising mathematics.
-
-Please feel free to contact me by email: elodie.maignant[at]inria.fr
+Please feel free to contact me by email: maignant[at]zib.de
 
 
 News
@@ -28,5 +25,4 @@ Kendall Shape Spaces" has been accepted with oral presentation!
 
 * **April 2023** -- Our submission to [GSI'23](https://conference-gsi.org/) with Anna Calissano and Xavier Pennec, entitled "Towards Quotient Barycentric Subspaces" has been accepted with oral presentation!
 
-* **May 2021** -- Elodie Maignant: My implementation of a "Visualization of Kendall shape spaces for triangles" in the library [Geomstats](https://github.com/geomstats/challenge-iclr-2021) won 2nd price at ICLR Computational Geometry & Topology Challenge 2021!
 
