@@ -47,13 +47,49 @@ curvature spaces.
 
 ## Talks
 
-* April 2023 -- **Working with unlabelled graphs.**
-  Epione PhD Seminar.
-  Inria, France.
+* August 2024 -- "Barycentric subspace analysis of networks"
+  COMPSTAT 2024
+  Giessen, Germany.
 
-* October 2022 -- **Some keys to understand Laplacian eigenmaps.**
-  Epione PhD Seminar
-  Inria, France.
+* August 2024 -- "Single-Cell velocity fields"
+  Workshop on Shape Analysis: Math in Maine
+  Andover, USA.
+
+* June 2024 -- "Barycentric subspace analysis of networks"
+  POPNets Workshop
+  Copenhagen, Denmark.
+
+* May 2024 -- "Barycentric subspace analysis of networks"
+  Geometric Sciences in Action
+  CIRM, France.
+
+* January 2024 -- "Barycentric subspace analysis of a set of graphs"
+  Workshop on Small Data Analysis
+  Berlin, Germany.
+
+* December 2023 -- "Intrinsic methods for manifold-valued data"
+  Seminar on Shape Analysis
+  Paris, France.
+
+* November 2023 -- "Barycentric subspace analysis of sets of graphs"
+  Workshop on Dimension Reduction
+  Lyon, France.
+
+* August 2023 -- "Riemannian locally linear embedding with application to Kendall shape spaces"
+  GSI’23
+  Saint-Malo, France.
+
+* August 2023 GSI’23 -- "Towards quotient barycentric subspaces"
+  GSI’23
+  Saint-Malo, France.
+
+* August 2023 -- "Barycentric geometry on manifolds and application to non-Euclidean dimensionality reduction"
+  Statistical Learning Theory Lab
+  Seoul National University.
+
+* July 2023 -- "Geodesics of orbit spaces, affine mappings of simple manifolds and some related questions in barycentric geometry"
+  Workshop on Shape Analysis: Math in the Mine
+  Tende, France.
 
 * September 2022 -- **Looking for invariance in Locally Linear Embedding (Poster).**
   [Research School on Geometry and Statistics in Data Sciences](https://www.ihp.fr/fr/agenda/gesda-introductory-school-iesc-cargese-corsica)
@@ -62,10 +98,6 @@ curvature spaces.
 * June 2022 -- **Looking for invariance in Locally Linear Embedding (Poster).**
   [10th International Conference on Curves and Surfaces](https://cs2022.sciencesconf.org/program).
   Arcachon, France.
-
-* March 2022 -- **Understanding Geodesic PCA on a simple application.** 
-  Epione PhD Seminar.
-  Inria, France
 
 * January 2022 -- **Introducing a generalisation of Locally Linear Embedding to manifold-valued data.**
   [Groupement de Travail en Traitement d'Images](https://centreborelli.ens-paris-saclay.fr/fr/GTTI).
