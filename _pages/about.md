@@ -15,7 +15,7 @@ supervision of [Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/) (
 
 More generally, my research interests lie at the interaction between geometry and learning. I am a strong believer in data-driven mathematics with a focus on applications in biology and medicine. I am also motivated by teaching and I am involved in several projects aimed at popularising mathematics.
 
-Please feel free to contact me by email: maignant[at]zib.de
+Please feel free to contact me by email at maignant[at]zib.de
 
 
 News
