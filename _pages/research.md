@@ -16,13 +16,13 @@ Defended on December 6, 2023 in front of Stephan Huckemann, Ian Dryden, Aasa Fer
 
 * Elodie Maignant, Alain Trouvé, Xavier Pennec.
   **Riemannian locally linear embedding with application to Kendall shape spaces**
-  Geometric Science of Information: 6th International Conference, GSI'23. Springer International Publishing (2023)
-  [hal-04122754](https://inria.hal.science/hal-04122754)
+  Geometric Science of Information: 6th International Conference, GSI'23. Springer International Publishing (2023).
+  [hal-04122754](https://hal.science/hal-04122754)
 
 * Anna Calissano, Elodie Maignant, Xavier Pennec
   **Towards quotient barycentric subspaces**
   Geometric Science of Information: 6th International Conference, GSI'23. Springer International Publishing (2023).
-  [hal-04162647](https://inria.hal.science/hal-04162647)
+  [hal-04162647](https://hal.science/hal-04162647)
 
 * Nina Miolane, et al. 
   **ICLR 2021 challenge for computational geometry & topology: Design and results**
@@ -50,51 +50,51 @@ Defended on December 6, 2023 in front of Stephan Huckemann, Ian Dryden, Aasa Fer
 ## Talks
 
 * August 2024 -- **Barycentric subspace analysis of networks**
-  [COMPSTAT 2024](http://www.compstat2024.org/docs/COMPSTAT2024_BoA.pdf?20240730003320)
+  [COMPSTAT 2024](http://www.compstat2024.org/docs/COMPSTAT2024_BoA.pdf?20240730003320).
   Giessen, Germany.
 
 * August 2024 -- **Single-Cell velocity fields**
-  [Workshop on Shape Analysis: Math in Maine](https://sites.google.com/view/shape-workshop/home/previous-editions/2024_maine)
+  [Workshop on Shape Analysis: Math in Maine](https://sites.google.com/view/shape-workshop/home/previous-editions/2024_maine).
   Andover, USA.
 
 * June 2024 -- **Barycentric subspace analysis of networks**
-  [POPNets Workshop](https://popnets.wordpress.com/what/)
+  [POPNets Workshop](https://popnets.wordpress.com/what/).
   Copenhagen, Denmark
 
 * May 2024 -- **Barycentric subspace analysis of networks**
-  [Geometric Sciences in Action: from Geometric Statistics to Shape Analysis](https://conferences.cirm-math.fr/wp-content/uploads/2024/05/CIRM_Program-1.pdf)
+  [Geometric Sciences in Action: from Geometric Statistics to Shape Analysis](https://conferences.cirm-math.fr/wp-content/uploads/2024/05/CIRM_Program-1.pdf).
   CIRM, France
 
 * January 2024 -- **Barycentric subspace analysis of a set of graphs**
-  [Workshop on Mathematics of Small Data Analysis](https://mathplus.de/topic-development-lab/tes-winter-2023-24/workshop-2/)
+  [Workshop on Mathematics of Small Data Analysis](https://mathplus.de/topic-development-lab/tes-winter-2023-24/workshop-2/).
   Berlin, Germany
 
 * December 2023 -- **Intrinsic methods for manifold-valued data**
-  [Seminar on Shape Analysis](https://shape-analysis.github.io/)
+  [Seminar on Shape Analysis](https://shape-analysis.github.io/).
   Paris, France
 
 * November 2023 -- **Barycentric subspace analysis of sets of graphs**
-  [Workshop on Dimension Reduction for Learning and Visualization](https://gdr-mia.math.cnrs.fr/events/dimreduc/)
+  [Workshop on Dimension Reduction for Learning and Visualization](https://gdr-mia.math.cnrs.fr/events/dimreduc/).
   Lyon, France
 
 * August 2023 -- **Riemannian locally linear embedding with application to Kendall shape spaces**
   [5th International Conference on Geometric Science of Information](https://conference-gsi.org/detailed-program/).
   Saint-Malo, France
 
-* August 2023 GSI’23 -- **Towards quotient barycentric subspaces**
+* August 2023 -- **Towards quotient barycentric subspaces**
   [5th International Conference on Geometric Science of Information](https://conference-gsi.org/detailed-program/).
   Saint-Malo, France
 
 * August 2023 -- **Barycentric geometry on manifolds and application to non-Euclidean dimensionality reduction**
-  [Seminar of the Statistical Learning Theory Lab](https://statlet.github.io/seminar/)
+  [Seminar of the Statistical Learning Theory Lab](https://statlet.github.io/seminar/).
   Seoul National University, South Korea.
 
 * July 2023 -- **Geodesics of orbit spaces, affine mappings of simple manifolds and some related questions in barycentric geometry**
-  [Workshop on Shape Analysis: Math in the Mine](https://sites.google.com/view/shape-workshop/home/previous-editions/2023_math-in-the-mine-ii)
+  [Workshop on Shape Analysis: Math in the Mine](https://sites.google.com/view/shape-workshop/home/previous-editions/2023_math-in-the-mine-ii).
   Tende, France.
 
 * September 2022 -- **Looking for invariance in Locally Linear Embedding (Poster).**
-  [Research School on Geometry and Statistics in Data Sciences](https://www.ihp.fr/fr/agenda/gesda-introductory-school-iesc-cargese-corsica)
+  [Research School on Geometry and Statistics in Data Sciences](https://www.ihp.fr/fr/agenda/gesda-introductory-school-iesc-cargese-corsica).
   Cargese, France.
 
 * June 2022 -- **Looking for invariance in Locally Linear Embedding (Poster).**
