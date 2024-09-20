@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: **Research**
 permalink: /research/
 author_profile: true
 ---
@@ -23,72 +23,72 @@ curvature spaces.
   [hal-04162647](https://inria.hal.science/hal-04162647)
 
 * Nina Miolane, et al. 
-  **ICLR 2021 challenge for computational geometry & topology: Design and results.**
+  **ICLR 2021 challenge for computational geometry & topology: Design and results**
   [arXiv:2108.09810](https://arxiv.org/abs/2108.09810).
 
 * Nicolas Guigui, Elodie Maignant, Alain Trouvé, Xavier Pennec.
-  **Parallel Transport on Kendall Shape Spaces.**
+  **Parallel Transport on Kendall Shape Spaces**
   Geometric Science of Information: 5th International Conference, GSI'21. Springer International Publishing (2021).
   [arXiv:2103.04611](https://arxiv.org/abs/2103.04611)
 
 * Maxim Stolyarchuk, Julie Ledoux, Elodie Maignant, Alain Trouvé, Luba Tchertanov
-  **Identification of the Primary Factors Determining the Specificity of the human VKORC1 Recognition by Thioredoxin-fold Proteins.**
+  **Identification of the Primary Factors Determining the Specificity of the human VKORC1 Recognition by Thioredoxin-fold Proteins**
   International Journal of Molecular Sciences 22.2 (2021): 802.
   [hal-03042382](https://hal.science/hal-03042382)
 
 * Philipp Harms, Elodie Maignant, Stefan Schlager.
-  **Approximation of Riemannian Distances and Applications to Distance-Based Learning on Manifolds.**
+  **Approximation of Riemannian Distances and Applications to Distance-Based Learning on Manifolds**
   [arXiv:1904.11860](https://arxiv.org/abs/1904.11860).
 
 * Philipp Harms, Elodie Maignant.
-  **Approximations of distances and kernels on shape space.**
+  **Approximations of distances and kernels on shape space**
   Math in the Black Forest – Workshop on New Directions in Shape Analysis (2018). 
   [arXiv:1811.01370](https://arxiv.org/abs/1811.01370).
 
 ## Talks
 
-* August 2024 -- "Barycentric subspace analysis of networks"
-  COMPSTAT 2024
+* August 2024 -- **Barycentric subspace analysis of networks**
+  [COMPSTAT 2024](http://www.compstat2024.org/docs/COMPSTAT2024_BoA.pdf?20240730003320)
   Giessen, Germany.
 
-* August 2024 -- "Single-Cell velocity fields"
-  Workshop on Shape Analysis: Math in Maine
+* August 2024 -- **Single-Cell velocity fields**
+  [Workshop on Shape Analysis: Math in Maine](https://sites.google.com/view/shape-workshop/home/previous-editions/2024_maine)
   Andover, USA.
 
-* June 2024 -- "Barycentric subspace analysis of networks"
-  POPNets Workshop
+* June 2024 -- **Barycentric subspace analysis of networks**
+  [POPNets Workshop](https://popnets.wordpress.com/what/)
   Copenhagen, Denmark.
 
-* May 2024 -- "Barycentric subspace analysis of networks"
-  Geometric Sciences in Action
+* May 2024 -- **Barycentric subspace analysis of networks**
+  [Geometric Sciences in Action: from Geometric Statistics to Shape Analysis](https://conferences.cirm-math.fr/wp-content/uploads/2024/05/CIRM_Program-1.pdf)
   CIRM, France.
 
-* January 2024 -- "Barycentric subspace analysis of a set of graphs"
-  Workshop on Small Data Analysis
+* January 2024 -- **Barycentric subspace analysis of a set of graphs**
+  [Workshop on Mathematics of Small Data Analysis](https://mathplus.de/topic-development-lab/tes-winter-2023-24/workshop-2/)
   Berlin, Germany.
 
-* December 2023 -- "Intrinsic methods for manifold-valued data"
-  Seminar on Shape Analysis
+* December 2023 -- **Intrinsic methods for manifold-valued data**
+  [Seminar on Shape Analysis](https://shape-analysis.github.io/)
   Paris, France.
 
-* November 2023 -- "Barycentric subspace analysis of sets of graphs"
-  Workshop on Dimension Reduction
+* November 2023 -- **Barycentric subspace analysis of sets of graphs**
+  [Workshop on Dimension Reduction for Learning and Visualization](https://gdr-mia.math.cnrs.fr/events/dimreduc/)
   Lyon, France.
 
-* August 2023 -- "Riemannian locally linear embedding with application to Kendall shape spaces"
-  GSI’23
-  Saint-Malo, France.
+* August 2023 -- **Riemannian locally linear embedding with application to Kendall shape spaces**
+  [5th International Conference on Geometric Science of Information](https://conference-gsi.org/detailed-program/).
+  Saint-Malo, France
 
-* August 2023 GSI’23 -- "Towards quotient barycentric subspaces"
-  GSI’23
-  Saint-Malo, France.
+* August 2023 GSI’23 -- **Towards quotient barycentric subspaces**
+  [5th International Conference on Geometric Science of Information](https://conference-gsi.org/detailed-program/).
+  Saint-Malo, France
 
-* August 2023 -- "Barycentric geometry on manifolds and application to non-Euclidean dimensionality reduction"
-  Statistical Learning Theory Lab
-  Seoul National University.
+* August 2023 -- **Barycentric geometry on manifolds and application to non-Euclidean dimensionality reduction**
+  [Seminar of the Statistical Learning Theory Lab](https://statlet.github.io/seminar/)
+  Seoul National University, South Korea.
 
-* July 2023 -- "Geodesics of orbit spaces, affine mappings of simple manifolds and some related questions in barycentric geometry"
-  Workshop on Shape Analysis: Math in the Mine
+* July 2023 -- **Geodesics of orbit spaces, affine mappings of simple manifolds and some related questions in barycentric geometry**
+  [Workshop on Shape Analysis: Math in the Mine](https://sites.google.com/view/shape-workshop/home/previous-editions/2023_math-in-the-mine-ii)
   Tende, France.
 
 * September 2022 -- **Looking for invariance in Locally Linear Embedding (Poster).**
@@ -110,10 +110,6 @@ curvature spaces.
 * October 2021 -- **A generalisation of Locally Linear Embedding to manifold-valued data.** 
   [Congrès des Jeunes Chercheuses et Chercheurs en Mathématiques Appliquées](https://cjc-ma2021.github.io/programme/#sessions-paralleles-jeudi-matin).
   École Polytechnique, France.
-
-* September 2021 -- **A gentle introduction to parallel transport and shape analysis.**
-  Epione PhD Seminar.
-  Inria, France.
 
 * August 2021 -- **Visualisation of Kendall shape spaces with Geomstats.**
   [Graduate Student Conference on Geometry and Topology meet Data Analysis and Machine Learning.](https://gtdaml.wixsite.com/2021). 
