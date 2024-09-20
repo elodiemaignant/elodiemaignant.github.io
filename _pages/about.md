@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a postdoctoral researcher at Zuse Institute Berlin in the group of [Christoph von Tycowicz](https://tycowicz.de/) where I investigate geometric approaches for the [analysis of RNA velocities](https://mathplus.de/research-2/application-areas/aa1-mechanisms-of-life/aa1-20/). Prior to that, I was a PhD student in the [G-Statistics Group](https://gstats.inria.fr/) at Inria, under the 
+I am a postdoctoral researcher at Zuse Institute Berlin in the group of [Christoph von Tycowicz](https://tycowicz.de/) where I investigate geometric approaches for the analysis of RNA velocity (see MATH+ project [page](https://mathplus.de/research-2/application-areas/aa1-mechanisms-of-life/aa1-20/)). Prior to that, I was a PhD student in the [G-Statistics Group](https://gstats.inria.fr/) at Inria, under the 
 supervision of [Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/) (Inria) and 
 [Alain Trouvé](https://centreborelli.ens-paris-saclay.fr/fr/annuaire-des-personnes/alain-trouve) (ENS Paris-Saclay). I defended my thesis on [Barycentric embeddings for geometric manifold learning with application to shapes and graphs](https://theses.hal.science/tel-04452790v2) in December 2023.
 
