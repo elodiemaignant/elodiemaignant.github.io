@@ -12,6 +12,16 @@ curvature spaces.
 
 ## Papers
 
+* Elodie Maignant, Alain Trouvé, Xavier Pennec.
+  **Riemannian locally linear embedding with application to Kendall shape spaces**
+  Geometric Science of Information: 6th International Conference, GSI'23. Springer International Publishing (2023)
+  [/hal-04122754](https://inria.hal.science/hal-04122754)
+
+* Anna Calissano, Elodie Maignant, Xavier Pennec
+  **Towards quotient barycentric subspaces**
+  Geometric Science of Information: 6th International Conference, GSI'23. Springer International Publishing (2023)
+  [hal-04162647](https://inria.hal.science/hal-04162647)
+
 * Nina Miolane, et al. 
   **ICLR 2021 challenge for computational geometry & topology: Design and results.**
   [arXiv:2108.09810](https://arxiv.org/abs/2108.09810).
