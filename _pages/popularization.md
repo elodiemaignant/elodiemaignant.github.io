@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Mathematics for All"
-permalink: /popularization/
+permalink:
 author_profile: true
 ---
 
