@@ -20,6 +20,6 @@ Please feel free to contact me by email at maignant[at]zib.de
 
 News
 ======
-* **October 2024** -- I won the [2nd PhD prize of the Université Côte d’Azur in Automatic, Signal Processing and Image Analysis](https://x.com/inria_sophia/status/1851623640451756156)!
+* **October 2024** -- I won the [2nd PhD prize of the Université Côte d’Azur in Automatic, Signal Processing and Image Analysis](https://webusers.i3s.unice.fr/edstic/5-2-prixDeThese-en.php)!
 * **January 2024** -- I started a Postdoc at Zuse Institute Berlin in the group of Christoph von Tycowicz!
 
