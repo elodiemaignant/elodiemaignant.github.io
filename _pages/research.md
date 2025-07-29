@@ -14,6 +14,10 @@ Defended on December 6, 2023 in front of Stephan Huckemann, Ian Dryden, Aasa Fer
 
 ## Papers
 
+* Elodie Maignant, Christoph von Tycowicz, Tim Conrad.
+  **Tree inference with varifold distances**.
+  [arxiv:2507.11313](https://arxiv.org/abs/2507.11313)
+
 * Elodie Maignant, Alain Trouvé, Xavier Pennec.
   **Riemannian locally linear embedding with application to Kendall shape spaces**.
   Geometric Science of Information: 6th International Conference, GSI'23. Springer International Publishing (2023).
@@ -48,6 +52,10 @@ Defended on December 6, 2023 in front of Stephan Huckemann, Ian Dryden, Aasa Fer
   [arXiv:1811.01370](https://arxiv.org/abs/1811.01370)
 
 ## Talks
+
+* February 2025 -- **Geometry of single-cell trajectories**.
+  [Infinite-dimensional Geometry: Theory and Applications](https://www.esi.ac.at/events/e550/).
+  ESI, Austria.
 
 * August 2024 -- **Barycentric subspace analysis of networks**.
   [COMPSTAT 2024](http://www.compstat2024.org/docs/COMPSTAT2024_BoA.pdf?20240730003320).
