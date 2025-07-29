@@ -54,7 +54,7 @@ Defended on December 6, 2023 in front of Stephan Huckemann, Ian Dryden, Aasa Fer
 ## Talks
 
 * February 2025 -- **Geometry of single-cell trajectories**.
-  [Infinite-dimensional Geometry: Theory and Applications](https://www.esi.ac.at/events/e550/).
+  [Infinite-dimensional Geometry: Theory and Applications](https://www.esi.ac.at/events/t2284/).
   ESI, Austria.
 
 * August 2024 -- **Barycentric subspace analysis of networks**.
