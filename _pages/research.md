@@ -14,6 +14,10 @@ Defended on December 6, 2023 in front of Stephan Huckemann, Ian Dryden, Aasa Fer
 
 ## Papers
 
+* Elodie Maignant, Xavier Pennec, Alain Trouvé, Anna Calissano.
+  **Barycentric subspace analysis of network-valued data**.
+  [arXiv:2507.23559](https://arxiv.org/abs/2507.23559)
+
 * Elodie Maignant, Christoph von Tycowicz, Tim Conrad.
   **Tree inference with varifold distances**.
   [arxiv:2507.11313](https://arxiv.org/abs/2507.11313)
