@@ -50,12 +50,11 @@ Defended on December 6, 2023 in front of Stephan Huckemann, Ian Dryden, Aasa Fer
   **Approximation of Riemannian Distances and Applications to Distance-Based Learning on Manifolds**.
   [arXiv:1904.11860](https://arxiv.org/abs/1904.11860)
 
-* Philipp Harms, Elodie Maignant.
-  **Approximations of distances and kernels on shape space**.
-  Math in the Black Forest – Workshop on New Directions in Shape Analysis (2018).
-  [arXiv:1811.01370](https://arxiv.org/abs/1811.01370)
-
 ## Talks
+
+* July 2025 -- **RNA velocity fields and tree inference**.
+  [Math in Umbria: A workshop centered around Geometry, Shapes and PDEs](https://sites.google.com/view/shape-workshop/home/previous-editions/2025_math-in-umbria).
+  Città di Castello, Italy.
 
 * February 2025 -- **Geometry of single-cell trajectories**.
   [Infinite-dimensional Geometry: Theory and Applications](https://www.esi.ac.at/events/t2284/).
@@ -66,7 +65,7 @@ Defended on December 6, 2023 in front of Stephan Huckemann, Ian Dryden, Aasa Fer
   Giessen, Germany.
 
 * August 2024 -- **Single-Cell velocity fields**.
-  [Workshop on Shape Analysis: Math in Maine](https://sites.google.com/view/shape-workshop/home/previous-editions/2024_maine).
+  [Math in Maine: A workshop centered around Geometry, Shapes and PDEs](https://sites.google.com/view/shape-workshop/home/previous-editions/2024_maine).
   Andover, USA.
 
 * June 2024 -- **Barycentric subspace analysis of networks**.
@@ -102,7 +101,7 @@ Defended on December 6, 2023 in front of Stephan Huckemann, Ian Dryden, Aasa Fer
   Seoul National University, South Korea.
 
 * July 2023 -- **Geodesics of orbit spaces, affine mappings of simple manifolds and some related questions in barycentric geometry**.
-  [Workshop on Shape Analysis: Math in the Mine](https://sites.google.com/view/shape-workshop/home/previous-editions/2023_math-in-the-mine-ii).
+  [Math in the Mine: A workshop centered around Geometry, Shapes and PDEs](https://sites.google.com/view/shape-workshop/home/previous-editions/2023_math-in-the-mine-ii).
   Tende, France.
 
 * September 2022 -- **Looking for invariance in Locally Linear Embedding**.
@@ -131,5 +130,4 @@ Defended on December 6, 2023 in front of Stephan Huckemann, Ian Dryden, Aasa Fer
 * July 2021 -- **Parallel transport on Kendall shape spaces**.
   [5th International Conference on Geometric Science of Information](https://web2.see.asso.fr/en/wiki/369007_program-schedule).
   Paris, France
-
 
