@@ -64,7 +64,7 @@ Defended on December 6, 2023 in front of Stephan Huckemann, Ian Dryden, Aasa Fer
   [COMPSTAT 2024](http://www.compstat2024.org/docs/COMPSTAT2024_BoA.pdf?20240730003320).
   Giessen, Germany.
 
-* August 2024 -- **Single-Cell velocity fields**.
+* August 2024 -- **RNA velocity fields**.
   [Math in Maine: A workshop centered around Geometry, Shapes and PDEs](https://sites.google.com/view/shape-workshop/home/previous-editions/2024_maine).
   Andover, USA.
 
