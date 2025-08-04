@@ -86,7 +86,7 @@ author:
   location         : "Berlin, Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=dHyoM_sAAAAJ&hl=en"
   email            : "maignant@zib.de"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
