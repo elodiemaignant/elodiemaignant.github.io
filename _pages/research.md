@@ -20,6 +20,7 @@ Defended on December 6, 2023 in front of Stephan Huckemann, Ian Dryden, Aasa Fer
 
 * Elodie Maignant, Christoph von Tycowicz, Tim Conrad.
   **Tree inference with varifold distances**.
+  _to appear in_ Geometric Science of Information: 7th International Conference, GSI'25. Springer International Publishing (2025).
   [arxiv:2507.11313](https://arxiv.org/abs/2507.11313)
 
 * Elodie Maignant, Alain Trouvé, Xavier Pennec.
