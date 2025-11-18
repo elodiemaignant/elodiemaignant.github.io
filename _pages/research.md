@@ -20,7 +20,7 @@ Defended on December 6, 2023 in front of Stephan Huckemann, Ian Dryden, Aasa Fer
 
 * Elodie Maignant, Christoph von Tycowicz, Tim Conrad.
   **Tree inference with varifold distances**.
-  _To appear in_ Geometric Science of Information: 7th International Conference, GSI'25. Springer International Publishing (2025).
+  Geometric Science of Information: 7th International Conference, GSI'25. Springer International Publishing (2025).
   [arxiv:2507.11313](https://arxiv.org/abs/2507.11313)
 
 * Elodie Maignant, Alain Trouvé, Xavier Pennec.
@@ -52,6 +52,10 @@ Defended on December 6, 2023 in front of Stephan Huckemann, Ian Dryden, Aasa Fer
   [arXiv:1904.11860](https://arxiv.org/abs/1904.11860)
 
 ## Talks
+
+* October 2025 -- **Tree inference with varifold distances**.
+  [6th International Conference on Geometric Science of Information]([https://conference-gsi.org/detailed-program/](https://conference-gsi.org/gsi-2025/program/30-october-2025/)).
+  Saint-Malo, France
 
 * July 2025 -- **RNA velocity fields and tree inference**.
   [Math in Umbria: A workshop centered around Geometry, Shapes and PDEs](https://sites.google.com/view/shape-workshop/home/previous-editions/2025_math-in-umbria).
