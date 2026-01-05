@@ -53,8 +53,12 @@ Defended on December 6, 2023 in front of Stephan Huckemann, Ian Dryden, Aasa Fer
 
 ## Talks
 
+* December 2025 -- **Trajectory inference with varifold distances**.
+  [CFE-CMStatistics](https://www.cmstatistics.org/RegistrationsV2/CFECMStatistics2025/viewSubmission.php?in=903&token=15n3n25q55o5q500573oopp88nsn18q3).
+  London, UK
+
 * October 2025 -- **Tree inference with varifold distances**.
-  [6th International Conference on Geometric Science of Information]([https://conference-gsi.org/detailed-program/](https://conference-gsi.org/gsi-2025/program/30-october-2025/)).
+  [6th International Conference on Geometric Science of Information](https://conference-gsi.org/gsi-2025/program/30-october-2025/).
   Saint-Malo, France
 
 * July 2025 -- **RNA velocity fields and tree inference**.
