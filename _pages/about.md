@@ -20,6 +20,6 @@ Please feel free to contact me by email at maignant[at]zib.de
 
 News
 ======
-* **March 2026** -- I will be joining the [DECONET](https://forskning.ruc.dk/en/projects/decoding-the-coordination-of-biological-networks/) porject led by [Pia Nyeng](https://forskning.ruc.dk/en/persons/pnyeng/), [Aasa Feragen](https://people.compute.dtu.dk/afhar/) and [Anna Calissano](https://annacalissano.com/)
+* **March 2026** -- I will be joining the [DECONET](https://forskning.ruc.dk/en/projects/decoding-the-coordination-of-biological-networks/) project led by [Pia Nyeng](https://forskning.ruc.dk/en/persons/pnyeng/), [Aasa Feragen](https://people.compute.dtu.dk/afhar/) and [Anna Calissano](https://annacalissano.com/)
 * **October 2024** -- I won the [2nd PhD prize of the Université Côte d’Azur in Automatic, Signal Processing and Image Analysis](https://webusers.i3s.unice.fr/edstic/5-2-prixDeThese-en.php)!
 
