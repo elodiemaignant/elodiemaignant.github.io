@@ -14,11 +14,15 @@ Defended on December 6, 2023 in front of Stephan Huckemann, Ian Dryden, Aasa Fer
 
 ## Papers
 
+* Elodie Maignant, Tim Conrad, Christoph von Tycowicz.
+  **VeloTree: Inferring single-cell trajectories from RNA velocity fields with varifold distances**.
+  [arxiv:2604.02380]([https://arxiv.org/abs/2507.11313](https://arxiv.org/abs/2604.02380v1))
+
 * Elodie Maignant, Xavier Pennec, Alain Trouvé, Anna Calissano.
   **Barycentric subspace analysis of network-valued data**.
-  [arXiv:2507.23559](https://arxiv.org/abs/2507.23559)
+  [arXiv:2507.23559](https://arxiv.org/abs/2507.23559v1)
 
-* Elodie Maignant, Christoph von Tycowicz, Tim Conrad.
+* Elodie Maignant, Tim Conrad, Christoph von Tycowicz.
   **Tree inference with varifold distances**.
   Geometric Science of Information: 7th International Conference, GSI'25. Springer International Publishing (2025).
   [arxiv:2507.11313](https://arxiv.org/abs/2507.11313)
