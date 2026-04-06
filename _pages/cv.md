@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[For the pdf version of my curriculum vitae please click here.]({{site.baseurl}}/files/cv_elodie_maignant.pdf)
+[For the pdf version of my curriculum vitae please click here.]({{site.baseurl}}/files/cv_en_elodie_maignant.pdf)
