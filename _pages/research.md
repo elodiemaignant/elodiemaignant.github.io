@@ -16,7 +16,7 @@ Defended on December 6, 2023 in front of Stephan Huckemann, Ian Dryden, Aasa Fer
 
 * Elodie Maignant, Tim Conrad, Christoph von Tycowicz.
   **VeloTree: Inferring single-cell trajectories from RNA velocity fields with varifold distances**.
-  [arxiv:2604.02380]([https://arxiv.org/abs/2507.11313](https://arxiv.org/abs/2604.02380v1))
+  [arxiv:2604.02380](https://arxiv.org/abs/2604.02380v1)
 
 * Elodie Maignant, Xavier Pennec, Alain Trouvé, Anna Calissano.
   **Barycentric subspace analysis of network-valued data**.
@@ -56,6 +56,14 @@ Defended on December 6, 2023 in front of Stephan Huckemann, Ian Dryden, Aasa Fer
   [arXiv:1904.11860](https://arxiv.org/abs/1904.11860)
 
 ## Talks
+
+* June 2026 -- **Varifold metrics for spatial networks**.
+  [Math in Aquitaine: A workshop centered around Geometry, Shapes and PDEs](https://sites.google.com/view/shape-workshop/home/previous-editions/2026_aquitaine).
+  Bergerac, France
+
+* June 2026 -- **Inferring single-cell trajectories from RNA velocity fields with varifold distances**.
+  [Curves and Surfaces 2026](https://cs2026.sciencesconf.org/705425).
+  Saint-Malo, France
 
 * December 2025 -- **Trajectory inference with varifold distances**.
   [CFE-CMStatistics](https://www.cmstatistics.org/RegistrationsV2/CFECMStatistics2025/viewSubmission.php?in=903&token=15n3n25q55o5q500573oopp88nsn18q3).
