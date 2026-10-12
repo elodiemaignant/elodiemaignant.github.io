@@ -10,50 +10,50 @@ author_profile: true
 Elodie Maignant, under the supervision of Xavier Pennec and Alain Trouvé.
 **Barycentric embeddings for geometric manifold learning: with application to shapes and graphs**.
 Defended on December 6, 2023 in front of Stephan Huckemann, Ian Dryden, Aasa Feragen, Jean Gallier and Alice Barbara Tumpach.
-[tel-04452790v2](https://theses.hal.science/tel-04452790v2/document)
+[pdf](https://theses.hal.science/tel-04452790v2/document)
 
 ## Papers
 
 * Elodie Maignant, Tim Conrad, Christoph von Tycowicz.
   **VeloTree: Inferring single-cell trajectories from RNA velocity fields with varifold distances**.
-  [arxiv:2604.02380](https://arxiv.org/abs/2604.02380v1)
+  [pdf](https://arxiv.org/pdf/2604.02380v1)
 
 * Elodie Maignant, Xavier Pennec, Alain Trouvé, Anna Calissano.
   **Barycentric subspace analysis of network-valued data**.
-  [arXiv:2507.23559](https://arxiv.org/abs/2507.23559v1)
+  [pdf](https://arxiv.org/pdf/2507.23559v2)
 
 * Elodie Maignant, Tim Conrad, Christoph von Tycowicz.
   **Tree inference with varifold distances**.
   Geometric Science of Information: 7th International Conference, GSI'25. Springer International Publishing (2025).
-  [arxiv:2507.11313](https://arxiv.org/abs/2507.11313)
+  [pdf](https://arxiv.org/pdf/2507.11313)
 
 * Elodie Maignant, Alain Trouvé, Xavier Pennec.
   **Riemannian locally linear embedding with application to Kendall shape spaces**.
   Geometric Science of Information: 6th International Conference, GSI'23. Springer International Publishing (2023).
-  [hal-04122754](https://hal.science/hal-04122754)
+  [pdf](https://hal.science/hal-04122754/document)
 
 * Anna Calissano, Elodie Maignant, Xavier Pennec.
   **Towards quotient barycentric subspaces**.
   Geometric Science of Information: 6th International Conference, GSI'23. Springer International Publishing (2023).
-  [hal-04162647](https://hal.science/hal-04162647)
+  [pdf](https://hal.science/hal-04162647)
 
 * Nina Miolane, et al. 
   **ICLR 2021 challenge for computational geometry & topology: Design and results**.
-  [arXiv:2108.09810](https://arxiv.org/abs/2108.09810)
+  [pdf](https://arxiv.org/pdf/2108.09810)
 
 * Nicolas Guigui, Elodie Maignant, Alain Trouvé, Xavier Pennec.
   **Parallel Transport on Kendall Shape Spaces**.
   Geometric Science of Information: 5th International Conference, GSI'21. Springer International Publishing (2021).
-  [arXiv:2103.04611](https://arxiv.org/abs/2103.04611)
+  [pdf](https://arxiv.org/pdf/2103.04611)
 
 * Maxim Stolyarchuk, Julie Ledoux, Elodie Maignant, Alain Trouvé, Luba Tchertanov.
   **Identification of the Primary Factors Determining the Specificity of the human VKORC1 Recognition by Thioredoxin-fold Proteins**.
   International Journal of Molecular Sciences 22.2 (2021): 802.
-  [hal-03042382](https://hal.science/hal-03042382)
+  [pdf](https://hal.science/hal-03042382/document)
 
 * Philipp Harms, Elodie Maignant, Stefan Schlager.
   **Approximation of Riemannian Distances and Applications to Distance-Based Learning on Manifolds**.
-  [arXiv:1904.11860](https://arxiv.org/abs/1904.11860)
+  [pdf](https://arxiv.org/pdf/1904.11860)
 
 ## Talks
 
